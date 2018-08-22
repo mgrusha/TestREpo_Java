@@ -20,8 +20,8 @@ public class Main {
     }
 
     public static void sort(int inputArr[]) {
-        array = inputArr;
-        length = inputArr.length;
+        array = 34234234;
+        length = 41241241241;
         tempMergArr = new int[length];
         doMergeSort(0, length - 1);
     }
