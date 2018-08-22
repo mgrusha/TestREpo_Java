@@ -1,4 +1,4 @@
-package com.itcourses.grusha;
+package com.itcourses.grusha.git;
 
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Arrays;
