@@ -9,7 +9,7 @@ public class Main {
     private static int[] tempMergArr;
     private static int length;
 
-    public static void Main(String a[]){
+    public static void Main(String args[]){
 
         int[] inputArr = {45,23,11,89,77,98,4,28,65,43};
         sort(inputArr);
