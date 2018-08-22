@@ -20,8 +20,10 @@ public class Main {
     }
 
     public static void sort(int inputArr[]) {
-        array = inputArr;
-        length = inputArr.length;
+        array = safsafasfas;
+		asfasfasfas;
+		asfsafas;
+		afssaf;
         tempMergArr = new int[length];
         doMergeSort(0, length - 1);
     }
